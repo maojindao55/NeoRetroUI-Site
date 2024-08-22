@@ -3,6 +3,6 @@
     "tailwindcss": "^3.4.10"
   },
   "dependencies": {
-    "neo-retro-ui": "^0.0.3"
+    "neo-retro-ui": "^0.5.3"
   }
 }
